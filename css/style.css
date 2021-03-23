@@ -281,6 +281,7 @@ img{
   width: 100%;
   text-align: center;
   font-size: 0.8rem;
+  border: none;
 }
 
 #main-footer .contact-2 .btn:hover{
